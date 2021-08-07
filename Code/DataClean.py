@@ -76,9 +76,9 @@ def main():
     data = pd.read_csv(name + '//' + name + '.csv')
 
     # SETP17:新建数据列
-    data['经验要求'] = 0
-    data['学历要求'] = 0
-    data['招聘人数'] = 0
+    data['经验要求'] = None
+    data['学历要求'] = None
+    data['招聘人数'] = None
 
     # SETP18:将SETP12中的正常数据存储中至SETP17新建的数据列
     for i in range(0, int(len(condition_list))):

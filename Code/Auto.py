@@ -478,7 +478,7 @@ def analyzedata(name):
         width = rect.get_width()
         plt.text(rect.get_width(), rect.get_y() + rect.get_height() / 2, '%s' % int(width), ha='left', va='center')
     plt.savefig(name + '//' + "招聘[" + name + "]的学历要求.png")
-    print('图表导出完毕！')
+    print('制图完毕，已保存至\'' + name + '\'文件夹下')
 
 
 # 主函数

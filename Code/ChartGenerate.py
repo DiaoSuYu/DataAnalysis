@@ -1,6 +1,6 @@
 # Builder : Sam
 # Build Time: 2021-07-31
-# Description： 51job data require
+# Description： 51job data chartgenerate
 
 
 import random  # 随机模块

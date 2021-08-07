@@ -1,6 +1,6 @@
 # Builder : Sam
 # Build Time: 2021-07-20
-# Description： 51job data require
+# Description： 51job data crawl
 
 
 import os           # 标准库os

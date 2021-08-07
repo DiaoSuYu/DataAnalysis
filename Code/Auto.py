@@ -1,6 +1,6 @@
 # Builder : Sam
 # Build Time: 2021-08-03
-# Description： 51job data require, clean, visualization
+# Description： 51job data crawl, clean, chartgenerate
 
 
 import os  # 标准库os
